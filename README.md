@@ -1,6 +1,5 @@
 # OpenGL Skeletal System Project
 This project involves creating a skeletal system using OpenGL, allowing various interactions like walking, kicking, and a moon walk simulation triggered by specific key presses.
-
 ## Features
 * Walking: Press 'W' to simulate the skeletal system walking.
 * Kicking: Press 'K' to simulate the skeletal system kicking.
@@ -13,3 +12,6 @@ Ensure you have the required dependencies and libraries for OpenGL installed.
 Clone the repository to your local machine.
 Compile and run the main code file to experience the skeletal system interactions.
 Use the specified keys ('W', 'K', 'M') to trigger various motions of the skeletal system.
+##Other Contributors:
+* Hitesh Yadav :  https://github.com/HiteshYadav007
+* Darshan : https://github.com/DARSHANv17
