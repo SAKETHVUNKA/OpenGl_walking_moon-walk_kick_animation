@@ -4,6 +4,8 @@ This project involves creating a skeletal system using OpenGL, allowing various 
 * Walking: Press 'W' to simulate the skeletal system walking.
 * Kicking: Press 'K' to simulate the skeletal system kicking.
 * Moon Walk: Press 'M' to simulate a moon walk motion.
+## Demo Video
+https://github.com/SAKETHVUNKA/openGl_walking_moon-walk_kick_animation/assets/106236218/5b46015e-e759-4f6e-bddc-50b520ea6fab
 ## Additional Files
 * Python CSV Generator Files: These files aid in generating necessary csv file for the main code.
 * Music File (dangerous.wav): The file (dangerous.wav) is used to play a song during the moon walk simulation.
